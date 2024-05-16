@@ -1,0 +1,28 @@
+.filterWrapper {
+    box-shadow: rgba(252, 185, 3, 0.24) 0px 3px 8px;
+    border-radius: 5px;
+    padding: 16px;
+    margin-bottom: 16px;
+    margin-top: 50px;
+    position: relative;
+}
+.filterIcon{
+    padding-bottom: 16px;
+}
+
+.filterIcon b {
+    background-color: transparent;
+    color: white;
+}
+
+.filterIcon b{
+    padding-right:10px;
+}
+
+.filterWrapper img {
+    position: absolute;
+    left: 100px;
+    top: 20px;
+    width: 400px;
+    background-color: transparent;
+}

@@ -1,0 +1,360 @@
+{
+  "movie": [
+    {
+      "id": "1",
+      "name": "اسکار",
+      "director": "مهران مدیری",
+      "description": "در دومین قسمت از فصل ششم «اسکار»، بهرنگ علوی برای دریافت امتیاز از مهران مدیری با کمک جلوه‌های ویژه در مقابل «متیو مک‌کانه",
+      "posterSrc": "https://static.cdn.asset.filimo.com/flmt/mov_146924_157960.jpg?width=165&quality=85&secret=5a-PXpnGUDpeGjNdLebMXQ",
+      "bannerSrc": "https://www.filimo.com/shot/wp-content/uploads/2024/01/oskar-1-07.jpg",
+      "img1Src": "https://static.cdn.asset.filimo.com/flmt/mov_142033_72421.jpg?width=220&quality=85&secret=qJ5TcZ8YIuLdXpcKZuGaKA",
+      "img2Src": "https://static.cdn.asset.filimo.com/flmt/mov_144017_72682.jpg?width=220&quality=85&secret=hUZ2xvBsI_3Bg_5a8Suv3A",
+      "img3Src": "https://static.cdn.asset.filimo.com/flmt/mov_144159_106140.jpg?width=220&quality=85&secret=K7x9mX-PXhbp3boWCn_Csg",
+      "img4Src": "https://static.cdn.asset.filimo.com/flmt/mov_144285_150730.jpg?width=220&quality=85&secret=t-TsevBdJv8AxH-T3houoA",
+      "logoSrc": "https://static.cdn.asset.filimo.com/flmt/mov_logo_142032_381.png?width=400&quality=85&secret=rF6-vLzIh5uZAlpgNKSqOQ",
+      "about": "سریال اسکار به کارگردانی مهران مدیری در سال 1402 ساخته شده است. این سریال محصول کشور ایران و در ژانر ریلیتی شو و گیم شو می‌باشد. .",
+      "series": "series"
+    },
+    {
+      "id": "2",
+      "name": "قطب شمال",
+      "director": "امین محمودی یکتا",
+      "description": "همایون و ارغوان در آستانه ازدواج، قربانی خیانتی هولناک می شوند. همایون پشت دیوارهای زندان برای انتقام از سامان لحظه شماری می کند که مرگ از راه می رسد. آرشام یکتا متولد می شود. دختری به نام صحرا کنارش قرار می گیرد تا مسیر انتقام از خائنان برای آرشام هموار شود. ",
+      "posterSrc": "https://static.cdn.asset.filimo.com/flmt/mov_146778_157746.jpg?width=165&quality=85&secret=9DBU_gjErvZnE-y_EkhyNA",
+      "bannerSrc": "https://www.filimo.com/shot/wp-content/uploads/2024/04/Ghotbe-Shomal-Cover.jpg",
+      "img1Src": "https://static.cdn.asset.filimo.com/flmt/mov_146003_156081.jpg?width=220&quality=85&secret=7p-H9xydf7SVZvMeAZ8f_g",
+      "img2Src": "https://static.cdn.asset.filimo.com/flmt/mov_146564_157611.jpg?width=220&quality=85&secret=Aa1G3LBuXmeAv7IHMedWCw",
+      "img3Src": "https://static.cdn.asset.filimo.com/flmt/mov_146778_157773.jpg?width=220&quality=85&secret=auhxfu4A6A6AM79wE_fQMQ",
+      "img4Src": "https://static.cdn.asset.filimo.com/flmt/mov_146926_157772.jpg?width=165&quality=85&secret=k3UqgLHicLnUoFlo9Xy8WQ",
+      "logoSrc": "https://static.cdn.asset.filimo.com/flmt/mov_logo_146002_179.png?width=400&quality=85&secret=fE8w1UsRDDqcH6fVNRvC4g",
+      "about": "سریال قطب شمال به کارگردانی امین محمودی یکتا در سال 1403 ساخته شده است. این سریال محصول کشور ایران و در ژانر درام و عاشقانه می‌باشد. در این سریال فرزاد فرزین، آناهیتا درگاهی، امیرحسین فتحی، نازنین بیاتی، فرزاد حسنی، عباس جمشیدی فر، شهرام قائدی، نگار فروزنده، شهروز دل افکار، روح الله زمانی، مرتضی آقاحسینی، مه لقا می نوش، فرهنگ زرگرباشی، ماکان",
+      "series": "series"
+    },
+    {
+      "id": "3",
+      "name": "زودیاک",
+      "director": "محمدرضا رضاییان",
+      "description": "«شب های مافیا»، گیم شوی جذابی است که در آن یک قاتل سریالی به نام «زودیاک»، شهروندان و مافیای سیسیل را هدف قرار می دهد",
+      "posterSrc": "https://static.cdn.asset.filimo.com/flmt/mov_146867_157817.jpg?width=165&quality=85&secret=I1wfT58T2C9yYgRoxGdA5Q",
+      "bannerSrc": "https://ensafnews.com/wp-content/uploads/2023/11/Mafia-Jadid.jpg",
+      "img1Src": "https://static.cdn.asset.filimo.com/flmt/mov_137339_61705.jpg?width=220&quality=85&secret=XrzarFR0AQ8Af5r_5AZ5lA",
+      "img2Src": "https://static.cdn.asset.filimo.com/flmt/mov_137105_61943.jpg?width=220&quality=85&secret=4mXfskQHh02pUoNCwLlnOQ",
+      "img3Src": "https://static.cdn.asset.filimo.com/flmt/mov_137502_62093.jpg?width=220&quality=85&secret=3ou1oj7kgmJMnfGfnOnEfA",
+      "img4Src": "https://static.cdn.asset.filimo.com/flmt/mov_137503_62992.jpg?width=220&quality=85&secret=8a0BQX9_zQ8LWbiyNQbA8w",
+      "logoSrc": "https://static.cdn.asset.filimo.com/flmt/mov_logo_137093_589.png?width=400&quality=85&secret=n9AW7B2hhMceD8DJwgLBHA",
+      "about": "سریال شب های مافیا: زودیاک به کارگردانی محمدرضا رضائیان در سال 1402 ساخته شده است. این سریال محصول کشور ایران و در ژانر گیم شو و خانوادگی می‌باشد. .",
+      "series": "series"
+    },
+    {
+      "id": "4",
+      "name": "سپنج",
+      "director": "حسن نادری",
+      "description": "سپنج دهم، گفتگوی علی درستکار است با دکتر سید علی موسوی گرمارودی شاعر، نویسنده و حافظ پژوه که با اتکا به شعر گپی آرام و خلوتی آراسته برای شما می آفریند. سپنج شما را به تفکر دعوت می کند و پیشنهاد می شود در خلوت تماشا کنید.",
+      "posterSrc": "https://static.cdn.asset.filimo.com/flmt/mov_146870_157857.jpg?width=165&quality=85&secret=8T5jN1nlWdkC3UPQ0TUKVQ",
+      "bannerSrc": "https://www.filimo.com/shot/wp-content/uploads/2024/03/sepanj-1-08.jpg",
+      "img1Src": "https://static.cdn.asset.filimo.com/flmt/mov_145430_153266.jpg?width=220&quality=85&secret=uOuB4fkexIWwspiF1wtdpw",
+      "img2Src": "https://static.cdn.asset.filimo.com/flmt/mov_145451_153267.jpg?width=220&quality=85&secret=f67yLpS58dr9194B19g-iA",
+      "img3Src": "https://static.cdn.asset.filimo.com/flmt/mov_145613_153822.jpg?width=220&quality=85&secret=p-O0f26bxkS_OTE9naf-cg",
+      "img4Src": "https://static.cdn.asset.filimo.com/flmt/mov_145614_154745.jpg?width=220&quality=85&secret=azn9V70v5HjYiEHeMj6CAw",
+      "logoSrc": "https://static.cdn.asset.filimo.com/flmt/mov_logo_145429_122.png?width=400&quality=85&secret=7OruWuK3jkOALScHWd6mBw",
+      "about": "سریال سپنج در سال 1402 ساخته شده است. این سریال محصول کشور ایران و در ژانر تاک شو می‌باشد. .",
+      "series": "series"
+    },
+    {
+      "id": "5",
+      "name": "صداتو",
+      "director": "حامد جوادزاده",
+      "description": "«صداتو»، یک مسابقه موسیقایی پرمعما و جذاب است که محسن کیایی با چهره ای متفاوت اجرای آن را به عهده دارد. چهره های آ",
+      "posterSrc": "https://static.cdn.asset.filimo.com/flmt/mov_146774_157739.jpg?width=165&quality=85&secret=PpBqr5OEVQEnazokkUV6RQ",
+      "bannerSrc": "https://media.khabaronline.ir/d/2023/06/28/4/5874447.jpg?ts=1687965253000",
+      "img1Src": "https://static.cdn.asset.filimo.com/flmt/mov_134637_57892.jpg?width=220&quality=85&secret=ElFYnUXBtrQ8tnUaXEEBsQ",
+      "img2Src": "https://static.cdn.asset.filimo.com/flmt/mov_134877_58009.jpg?width=220&quality=85&secret=DTICd9tzJEG8XQuWLASoFA",
+      "img3Src": "https://static.cdn.asset.filimo.com/flmt/mov_135002_58430.jpg?width=220&quality=85&secret=P6tkL-51vYpcu4eyktmN3A",
+      "img4Src": "https://static.cdn.asset.filimo.com/flmt/mov_135237_58998.jpg?width=220&quality=85&secret=a94QvTPcYhn8lf-wG9t2cQ",
+      "logoSrc": "https://static.cdn.asset.filimo.com/flmt/mov_logo_134635_963.png?width=400&quality=85&secret=O9DSxuBguojV_Nk2Y8nywQ",
+      "about": "سریال صداتو به کارگردانی حامد جوادزاده در سال 1402 ساخته شده است. این سریال محصول کشور ایران و در ژانر ریلیتی شو و گیم شو می‌باشد. در این سریال محسن کیایی، شبنم مقدمی، محمد بحرانی، محسن شریفیان و امیرمهدی ژوله به هنرمندی پرداخته‌اند.",
+      "series": "series"
+    },
+    {
+      "id": "6",
+      "name": "پسر دلفینی",
+      "director": "رضا فصاحت",
+      "description": "ماهی‌ها در حال بازی با ستاره‌های دریایی هستند و آن ها را مثل توپک به سمت صخره ها پرتاب می کنند و هر که آن ها را دور",
+      "posterSrc": "https://static.cdn.asset.filimo.com/flmt/mov_145333_157677.jpg?width=165&quality=85&secret=hdcLKC9h_xT6jFzPLLrFiQ",
+      "bannerSrc": "https://shahraranews.ir/files/fa/news/1402/12/24/994807_915.jpg",
+      "img1Src": "https://static.cdn.asset.filimo.com/flmt/mov_145274_153192.jpg?width=220&quality=85&secret=hJxuqHrEcNzt3lqvxNU4Xg",
+      "img2Src": "https://static.cdn.asset.filimo.com/flmt/mov_145326_153354.jpg?width=220&quality=85&secret=Q4prebu5Q0s2bacd0PusbQ",
+      "img3Src": "https://static.cdn.asset.filimo.com/flmt/mov_145327_153356.jpg?width=220&quality=85&secret=8vHNY8ftwYqH7KjmMnaSGg",
+      "img4Src": "https://static.cdn.asset.filimo.com/flmt/mov_145328_153358.jpg?width=220&quality=85&secret=zeBQ2yUrxmfTheO_IfbDLg",
+      "logoSrc": "https://static.cdn.asset.filimo.com/flmt/mov_logo_145135_980.png?width=400&quality=85&secret=fVJ6iCuhyJk2Wsj-jNRmmA",
+      "about": "سریال پسر دلفینی به کارگردانی رضا فصاحت در سال 1402 ساخته شده است. این سریال محصول کشور ایران و در ژانر انیمیشن و ماجراجویی می‌باشد. .",
+      "series": "series",
+      "story" : "کشور ایران و در ژانر انیمیشن و ماجراجویی می‌ب"
+    },
+    {
+      "id": "7",
+      "name": "کاپیتان",
+      "director": "محمد حمزه ای",
+      "description": "به من میگن عیسی، هرکاری بخوام می‌کنم.",
+      "posterSrc": "https://static.cdn.asset.filimo.com/flmt/mov_145651_153960.jpg?width=165&quality=85&secret=JtAKLUZifkEz-Q3q0pR5Nw",
+      "bannerSrc": "https://media.mehrnews.com/d/2023/02/20/3/4433943.jpg?ts=1676886787693",
+      "about": "فیلم کاپیتان به کارگردانی محمد حمزه ای در سال 1401 ساخته شده است. این فیلم محصول کشور ایران و در ژانر درام و خانوادگی می‌باشد. در این فیلم پانته آ پناهی ها، پژمان بازغی، امیرحسین بیات، بهار نوحیان، ارغوان شعبانی، شایان دارمی پور، پرهام غلاملو و سحر حق شناس به هنرمندی پرداخته‌اند.",
+      "films": "films"
+    },
+    {
+      "id": "8",
+      "name": "چند میگیری گریه کنی 2",
+      "director": "علی توکل نیا",
+      "description": "داستان «چند میگیری گریه کنی 2» از جایی آغاز می شود که پسر پیرمرد ثروتمند قسمت اول این فیلم بعد از سی سال به ایران بر می گردد ت",
+      "posterSrc": "https://static.cdn.asset.filimo.com/flmt/mov_130962_52696-b.jpg?width=165&quality=85&secret=huAXiDhXpPas0-25MGNOhw",
+      "bannerSrc": "https://cdn.downloadefilm.ir/images/92aaf740-a3ed-11ee-b1ec-6d288e05c343.jpg",
+      "about": "فیلم چند میگیری گریه کنی 2 به کارگردانی علی توکل نیا در سال 1398 ساخته شده است. این فیلم محصول کشور ایران و در ژانر کمدی و خانوادگی می‌باشد. در این فیلم ابوالفضل پورعرب، حامد آهنگی، محیا دهقانی، اشپیتیم آرفی، عباس جمشیدی فر، حمید لولایی، اسدالله یکتا، مهران رجبی، گیتی معینی، بهروز خوش فطرت و هستی فرحی به هنرمندی پرداخته‌اند.",
+      "films": "films"
+    },
+    {
+      "id": "9",
+      "name": "نارگیل 2",
+      "director": "داوود اطیابی",
+      "description": "داستان درباره‌ی سه عروسک طلسم شده است که بابا حاجت از آن‌ها مراقبت می‌کند و به دنبال معجونی می‌گردد تا طلسم بدی را از آن‌",
+      "posterSrc": "https://static.cdn.asset.filimo.com/flmt/mov_145552_153461.jpg?width=165&quality=85&secret=qy-6oThpNjTpTMl3bESztA",
+      "bannerSrc": "https://cinemashahr.com/storage/films/uploads/652ea5caa3fd9_0296f264-470a-4a80-a7f5-2b7fa9067c7e_desktop-large.jpeg",
+      "about": "فیلم نارگیل 2 به کارگردانی داوود اطیابی در سال 1398 ساخته شده است. این فیلم محصول کشور ایران و در ژانر کمدی و موزیکال می‌باشد. در این فیلم بیژن بنفشه خواه، سحر قریشی، غلامحسین لطفی، علیرضا استادی، امید روحانی، شقایق دهقان، نصرالله رادش و غلامرضا نیکخواه به هنرمندی پرداخته‌اند.",
+      "films": "films"
+    },
+    {
+      "id": "10",
+      "name": "اخت الرضا",
+      "director": "سید مجتبی طباطبایی",
+      "description": "این اثر سینمایی سفر بانوی کرامت حضرت معصومه (س) از مدینه به قم را روایت می‌کند...",
+      "posterSrc": "https://static.cdn.asset.filimo.com/flmt/mov_146817_156853.jpg?width=165&quality=85&secret=-W5qNVJzC8BKx_5Z731PTw",
+      "bannerSrc": "https://newsmedia.tasnimnews.com/Tasnim/Uploaded/Image/1402/07/18/1402071813100086928537374.jpg",
+      "about": "فیلم اخت الرضا به کارگردانی سید مجتبی طباطبایی در سال 1400 ساخته شده است. این فیلم محصول کشور ایران و در ژانر درام و مذهبی می‌باشد. در این فیلم سیدمحمدجواد طاهری، مجید امیری، سهیلا محققی، مهدی میرغیاثی، مرتضی جلالی و حمید لاجوردی به هنرمندی پرداخته‌اند.",
+      "films": "films"
+    },
+    {
+      "id": "11",
+      "name": "فسیل",
+      "director": "کریم امینی",
+      "description": "فسیل داستان سه دوست را در پیش از انقلاب ایران روایت می‌کند که عضو یک گروه موسیقی‌ اند و برای کسب شهرت",
+      "posterSrc": "https://static.cdn.asset.filimo.com/flmt/mov_145103_152533.jpg?width=165&quality=85&secret=G95_wAj3uUVsDAveZMBp3w",
+      "bannerSrc": "https://ir-dl.com/wp-content/uploads/2023/03/Fossil-Banner.jpg",
+      "about": "فیلم فسیل به کارگردانی کریم امینی در سال 1399 ساخته شده است. این فیلم محصول کشور ایران و در ژانر کمدی و خانوادگی می‌باشد. در این فیلم بهرام افشاری، هادی کاظمی، ایمان صفا، الناز حبیبی، الهه حصاری، بابک کریمی، سیدجواد هاشمی، غلامرضا نیکخواه، امید روحانی، علیرضا استادی، قاسم زارع، خشایار راد و سمانه منیری به هنرمندی پرداخته‌اند.",
+      "films": "films"
+    },
+    {
+      "id": "12",
+      "name": "هولیا",
+      "director": "مرتضی آتش زمزم",
+      "description": "در ایران پدر و مادرها به بچه هاشون اجازه هر کاری را نمی دهند، ولی همیشه نوه داستانش فرق داره!",
+      "posterSrc": "https://static.cdn.asset.filimo.com/flmt/mov_144197_152428.jpg?width=165&quality=85&secret=_h06YbaofoWO6ivilAXshQ",
+      "bannerSrc": "https://zbcdn.cloud/files/cache/24119_652136d1a61b9.951409.jpg",
+      "about": "فیلم هولیا به کارگردانی مرتضی آتش زمزم در سال 1399 ساخته شده است. این فیلم محصول کشور ایران و در ژانر کمدی و خانوادگی می‌باشد. در این فیلم پوریا پورسرخ، محمدرضا هدایتی، علی انصاریان، محمد فیلی، مریم امیرجلالی، بهراد خرازی، افشین سنگ چاپ، مجید شهریاری، شیوا خسرومهر، شیوا طاهری، شراره رخام، مهدی امینی و ویلما الس به هنرمندی پرداخته‌اند.",
+      "films": "films"
+    },
+    {
+      "id": "13",
+      "name": "پایتخت",
+      "posterSrc": "https://static.cdn.asset.filimo.com/flmt/mov_srl_11933_1-b.jpg?width=165&quality=85&secret=TTVEtvEcur7pOH0IgDJRhw",
+      "director": "شایان افتخاری",
+      "free": "free"
+    },
+    {
+      "id": "14",
+      "name": "عقرب",
+      "posterSrc": "https://static.cdn.asset.filimo.com/flmt/mov_639_995-b.jpg?width=165&quality=85&secret=U80oEojsjv7n8SfJm-7rMQ",
+      "director": "شاهین رضامند",
+      "free": "free"
+    },
+    {
+      "id": "15",
+      "name": "ملکه گدایان",
+      "posterSrc": "https://static.cdn.asset.filimo.com/flmt/mov_srl_41017_932-b.jpg?width=165&quality=85&secret=iCCdAosM5VpIaQc_eFKHAA",
+      "director": "محمد عزیزی",
+      "free": "free"
+    },
+    {
+      "id": "16",
+      "name": "شاهرگ",
+      "posterSrc": "https://static.cdn.asset.filimo.com/flmt/mov_16676_331-b.jpg?width=165&quality=85&secret=4Q0sOKsHPQtVOTLs4kEvgQ",
+      "director": "رضا آگاهی",
+      "free": "free"
+    },
+    {
+      "id": "17",
+      "name": "بالشها",
+      "posterSrc": "https://static.cdn.asset.filimo.com/flmt/mov_srl_12645_1-b.jpg?width=165&quality=85&secret=T7uBxOIOJlPMJv1V6Ltu7Q",
+      "director": "عفان زگوند",
+      "free": "free"
+    },
+    {
+      "id": "18",
+      "name": "حماسه در شیلر",
+      "posterSrc": "https://static.cdn.asset.filimo.com/flmt/mov_17637_916-b.jpg?width=165&quality=85&secret=Y1OuacY3TaQCzdi43YaqzA",
+      "director": "مهیار نادری",
+      "free": "free"
+    },
+    {
+      "id": "19",
+      "name": "شب های مافیا 2",
+      "posterSrc": "https://static.cdn.asset.filimo.com/flmt/mov_srl_82690_962-b.jpg?width=165&quality=85&secret=zzPDwF-hvHdgEpy62Nqxog",
+      "director": "شکور عباسی",
+      "free": "free"
+    },
+    {
+      "id": "20",
+      "name": "مردم معمولی",
+      "posterSrc": "https://static.cdn.asset.filimo.com/flmt/mov_srl_82692_194-b.jpg?width=165&quality=85&secret=XlHlDu3cATALZhmyuhFrXQ",
+      "director": "نقی عبدی",
+      "free": "free"
+    },
+    {
+      "id": "21",
+      "name": "دیرین دیرین",
+      "posterSrc": "https://static.cdn.asset.filimo.com/flmt/mov_37557_65703.jpg?width=165&quality=85&secret=sFeug_xad-7HaV_WbrClGQ",
+      "director": "ارش سلامی",
+      "free": "free"
+    },
+    {
+      "id": "22",
+      "name": "سال های دور از خانه",
+      "posterSrc": "https://static.cdn.asset.filimo.com/flmt/mov_srl_26097_1-b.jpg?width=165&quality=85&secret=zKNS5MCO36dP6R20MWmPCA",
+      "director": "حسن نادری",
+      "free": "free"
+    },
+    {
+      "id": "23",
+      "name": "دراکولا",
+      "posterSrc": "https://static.cdn.asset.filimo.com/flmt/mov_srl_82686_882-b.jpg?width=165&quality=85&secret=1_5lgLmmEx8UpnWb6jHY1A",
+      "director": "علی نادری",
+      "free": "free"
+    },
+    {
+      "id": "24",
+      "name": "سجاده آتش",
+      "posterSrc": "https://static.cdn.asset.filimo.com/flmt/mov_42788_258-b.jpg?width=165&quality=85&secret=DFw_JKP6DOvyxBxiKkpD3Q",
+      "director": "اسما تقی پور",
+      "free": "free"
+    },
+    {
+      "id": "25",
+      "name": "شب های مافیا",
+      "posterSrc": "https://static.cdn.asset.filimo.com/flmt/mov_srl_36180_850-b.jpg?width=165&quality=85&secret=nTriltwu8OPuYXx9nxE6Vg",
+      "director": "محمد محمدی",
+      "free": "free"
+    },
+    {
+      "id": "26",
+      "name": "خوب بد جلف",
+      "posterSrc": "https://static.cdn.asset.filimo.com/flmt/mov_srl_41499_219-b.jpg?width=165&quality=85&secret=L56LMdyMy6j0qUEywlywKQ",
+      "director": "میلاد ناعمی",
+      "free": "free"
+    },
+    {
+      "id": "27",
+      "name": "نگهبان شب",
+      "director": "رضا میرکریمی",
+      "posterSrc": "https://static.cdn.asset.filimo.com/flmt/mov_146288_155645.jpg?width=300&quality=85&secret=ECAu_jYbYkHPMbth2zN39Q",
+      "bannerSrc": "https://www.filimo.com/shot/wp-content/uploads/2024/04/negahbaneshab-04.jpg",
+      "imgSrc": "https://www.filimo.com/shot/wp-content/uploads/2024/04/negahbaneshab-07.jpg",
+      "story": "رسول نگهبان یک مجتمع ساختمانی است که عاشق دختری کم شنوا به نام نصیبه می شود. ولی با دخالت بهنام کارفرمای طماع پروژه، زندگی ساده و عاشقانه اش دچار مشکلاتی می شود. «نگهبان شب»، برنده سیمرغ بهترین کارگردانی از جشنواره بین المللی فجر و نماینده ایران برای مراسم اسکار 2024 است.",
+      "about": "فیلم نگهبان شب به کارگردانی رضا میرکریمی در سال 1400 ساخته شده است. این فیلم محصول کشور ایران و در ژانر درام می‌باشد. در این فیلم محسن کیایی، تورج الوند، لاله مرزبان، علی اکبر اصانلو، صفورا خوش طینت، فهیمه هرمزی، زهرا اسلامی، پرهام غلاملو، محمدصادق ملک، علی غابشی، مهراد اکبرآبادی، ایمان سلگی، نوید بانی، ویشکا آسایش و کیومرث پوراحمد به هنرمندی پرداخته‌اند.",
+      "online": "online"
+    },
+    {
+      "id": "28",
+      "name": "هاوایی",
+      "director": "بهمن گودرزی",
+      "posterSrc": "https://static.cdn.asset.filimo.com/flmt/mov_146824_157626.jpg?width=300&quality=85&secret=uR08KiIBOtXKeWzlUvn3vw",
+      "bannerSrc": "https://www.armandaily.ir/wp-content/uploads/2024/01/%D9%87%D8%A7%D9%88%D8%A7%DB%8C%DB%8C.jpg",
+      "imgSrc": "https://media.mehrnews.com/d/2023/12/31/4/4798958.jpg?ts=1704032007857",
+      "story": "هاوایی داستان ورزشکاری است که برای پیشرفت در رشته ورزشی خود قصد دارد پناهندگی کشوری خارجی را بگیرد که در این حین ماجراهایی عجیب او را تبدیل به فرد سرشناسی در فضای مجازی می کند.",
+      "about": "فیلم هاوایی به کارگردانی بهمن گودرزی در سال 1399 ساخته شده است. این فیلم محصول کشور ایران و در ژانر کمدی و ماجراجویی می‌باشد. در این فیلم امین حیایی، امیر جعفری، ریحانه پارسا، امیرحسین رستمی، یزدان فتوحی و سالار کریمخانی به هنرمندی پرداخته‌اند.",
+      "online": "online"
+    },
+    {
+      "id": "29",
+      "name": "گیجگاه",
+      "director": "عادل تبریزی",
+      "posterSrc": "https://static.cdn.asset.filimo.com/flmt/mov_145894_154677.jpg?width=300&quality=85&secret=XSRlIucyLUrVQaRh0XofBQ",
+      "bannerSrc": "https://borna.news/files/fa/news/1399/10/24/1978498_900.jpg",
+      "imgSrc": "https://borna.news/files/fa/news/1399/9/27/1951576_257.jpg",
+      "story": "در دهه هفتاد شمسی، یک معلم ادبیات و ورزش که مربی کلاس کاراته هم هست، به مادر مطلقه یکی از شاگردان خود علاقه مند می شود. در این میان، اتفاقات عجیب و غیرمنتظره دیگری رقم می خورد، مثل کشیده شدن پای جمشید هاشم پور، ستاره فیلم های اکشن ایرانی دهه هفتاد به قصه.",
+      "about": "فیلم گیجگاه به کارگردانی عادل تبریزی در سال 1399 ساخته شده است. این فیلم محصول کشور ایران و در ژانر کمدی و عاشقانه می‌باشد. در این فیلم حامد بهداد، باران کوثری، سروش صحت، بهرنگ علوی، امیرحسین رستمی، نادر سلیمانی، بیژن بنفشه خواه، سیاوش چراغی پور، محمد الهی، علی راد، مریم همتیان، علی باغفر، داوود ونداده، حامد شیخی و وحید رحمتی به هنرمندی پرداخته‌اند.",
+      "online": "online"
+    }
+  ],
+  "account": [
+    {
+      "id": "1",
+      "time": "یک ساله",
+      "price": "98,000"
+    },
+    {
+      "id": "2",
+      "time": "سه ماهه",
+      "price": "252,000"
+    },
+    {
+      "id": "3",
+      "time": "شش ماهه",
+      "price": "504,000"
+    },
+    {
+      "id": "4",
+      "time": "یک ماهه",
+      "price": "125"
+    }
+  ],
+  "comment": [
+    {
+      "id": "1",
+      "name": "hasan naderi",
+      "description": "لورم ایپسوم متن ساخ، و با استفاده از طراحان گرافیکجلشرایط فبهیده قرار گیرد."
+    },
+    {
+      "id": "2",
+      "name": "ali khoshi",
+      "description": "لورم روزنامه و مجله در ستون و سطرآنچنان که لازم است، و برای شرایط فعلی تکنولوژی مورد نیاز، و کاربردهای متنوع با هدف بهبود اوارد."
+    },
+    {
+      "id": "3",
+      "name": "shayan eftekhari",
+      "description": "لورم ایرم ایپسوم متن ساختگی با تولید ساه اهه قرار گیرم ایپسوم متن ساختگی با تولید ساه اهه قرار گیپسوم متن ساختگی با تولید ساه اهه قرار گیرد."
+    },
+    {
+      "id": "4",
+      "name": "mahyar asiabar",
+      "description": "لورم ایپسوم متن سارم ایپسوم متن ساختگی با تولید ساه اهه قرار گیختگی با تولید ساه اهه قرار گیرد."
+    },
+    {
+      "id": "5",
+      "name": "asma taghipoor",
+      "description": "لورم ایپسوم متن ساختگی با تولید ساه اهه قرار گیرد."
+    },
+    {
+      "id": "6",
+      "name": "mona abbasian",
+      "description": "لورم ایپسوم متن ساخرم ایپسوم متن ساختگی با تولید ساه اهه قرار گیرم ایپسوم متن ساختگی با تولید ساه اهه قرار گیتگی با تولید ساه اهه قرار گیرد."
+    },
+    {
+      "id": "7",
+      "name": "milad naemi",
+      "description": "لورم ایپسوم متن ساخرم ایپسوم متن ساختگی با تولید ساه اهه قرار گیتگی با تولید ساه اهه قرار گیرد."
+    },
+    {
+      "id": "8",
+      "name": "shain rezamand",
+      "description": "لورم ایپسوم متن ساخرم ایپسوم متن ساختگی با تولید ساه اهه قرار گیرم ایپسوم متن ساختگی با تولید ساه اهه قرار گیرم ایپسوم متن ساختگی با تولید ساه اهه قرار گیتگی با تولید ساه اهه قرار گیرد."
+    },
+    {
+      "id": "9",
+      "name": "mohammad azizi",
+      "description": "لورم ایپسوم متن ساخترم ایپسوم متن ساختگی با تولید ساه اهه قرار گیگی با تولید ساه اهه قرار گیرد."
+    },
+    {
+      "id": "10",
+      "name": "reza agahi",
+      "description": "لورم ایپسوم متن ساختگی با تولید ساه اهه قرار گیرد."
+    }
+  ]
+}

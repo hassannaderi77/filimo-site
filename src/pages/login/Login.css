@@ -1,0 +1,71 @@
+.loginContainer {
+    width: 100%;
+    height: 100vh;
+    background-color: #f5f5f5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.loginContainer img {
+    width: 300px;
+    background-color: transparent;
+}
+
+.boxLogin {
+    background-color: #fff;
+    width: 500px;
+    height: 400px;
+    border-radius: 10px;
+    border: 2px solid lightgray;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+}
+
+.boxLogin .create {
+    background-color: #fff;
+    display: flex;
+    flex-direction: row-reverse;
+    margin-top: 60px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid lightgray;
+}
+
+.boxLogin .create p {
+    background-color: #fff;
+    color: rgb(107, 106, 106);
+    margin-left: 30px;
+    padding-top: 10px;
+}
+
+.boxLogin .emailLog {
+    background-color: #fff;
+    margin-top: 20px;
+    border-bottom: 2px solid lightgray;
+}
+
+.boxLogin .emailLog p {
+    background-color: #fff;
+    color: rgb(107, 106, 106);
+}
+
+.boxLogin .emailLog .boxButtons {
+    background-color: #fff;
+    direction: ltr;
+}
+
+.boxLogin .emailLog .boxButtons .btn {
+    margin: 20px;
+}
+
+.btnGoogle {
+    margin-top: 30px;
+}
+
+.back {
+    background-color: transparent;
+    margin-bottom: 20px;
+}

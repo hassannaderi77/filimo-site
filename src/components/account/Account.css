@@ -1,0 +1,29 @@
+.boxAccount {
+    width: 600px;
+    height: 70px;
+    border : 2px solid #0D6EFD;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10px;
+    color: black;
+    background-color: #d1e2fc;
+    transition: all 0.2s;
+}
+
+.boxAccount:hover {
+    background-color: #93bbf6;
+}
+
+.boxAccount .btn {
+    width: 150px;
+    margin-left: 5px;
+}
+
+.boxAccount h6 {
+    background-color: transparent;
+    margin-right: 15px;
+    font-weight: bold;
+    padding-top: 10px;
+}

@@ -1,0 +1,31 @@
+.card-title {
+    color: white;
+}
+
+.searchBoxContainer{
+    margin-top: 50px;
+}
+
+.searchInput {
+    all: unset;
+    background-color: rgb(67, 67, 67);
+    width: 300px;
+    height: 40px;
+    border-radius: 0 5px 5px 0;
+}
+
+.searchButton {
+    all: unset;
+    height: 40px;
+    border-radius: 5px 0 0 5px;
+    width: 70px;
+    text-align: center;
+    background-color: orange;
+    transition: all 0.2s;
+}
+
+.searchButton:active {
+    color: black;
+    background-color: rgb(98, 67, 10);
+}
+
